@@ -59,7 +59,7 @@ header img{
     transition: 2s;
 }
 .banner_section{
-    background: url(../images/slide_background.png);
+    background: url(slide_background.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -86,7 +86,7 @@ header img{
     line-height: 80px;
 }
 .head_section{
-    background: url(../images/black_back.jpg);
+    background: url(black_back.jpg);
     background-repeat: no-repeat;
     width: 80%;
     height: 50px;
